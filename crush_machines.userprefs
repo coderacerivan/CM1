@@ -1,0 +1,17 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/scripts/battleground/Battleground.cs">
+    <Files>
+      <File FileName="Assets/scripts/battleground/Battleground.cs" Line="335" Column="15" />
+      <File FileName="Assets/scripts/menu/main_menu_manager.cs" Line="1" Column="1" />
+      <File FileName="Assets/scripts/setup/PreferencesField.cs" Line="1" Column="1" />
+      <File FileName="Assets/scripts/setup/PrefMemCardClick.cs" Line="1" Column="1" />
+      <File FileName="Assets/scripts/setup/SelectDirection.cs" Line="1" Column="1" />
+      <File FileName="Assets/scripts/setup/back_setup.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

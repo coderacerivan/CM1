@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 8dc1b4d00fb7b4f84ae3a312467ea15e
+timeCreated: 1487877688
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - MemTile: {fileID: 1417770418838028, guid: 22ede299ff87c4c9d8b97e6bef64b706, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
